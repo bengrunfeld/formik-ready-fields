@@ -1,0 +1,26 @@
+{
+  "name": "formik-ready-fields",
+  "version": "1.0.0",
+  "description": "Ready to use components from the Formik library",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bengrunfeld/formik-ready-fields.git"
+  },
+  "keywords": [
+    "formik",
+    "forms",
+    "form",
+    "react",
+    "fields"
+  ],
+  "author": "Ben Grunfeld",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bengrunfeld/formik-ready-fields/issues"
+  },
+  "homepage": "https://github.com/bengrunfeld/formik-ready-fields#readme"
+}
